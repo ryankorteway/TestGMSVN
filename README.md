@@ -1,2 +1,1 @@
-"# TestGMSVN" 
-"# TestGMSVN Trying to get source control in Game Maker working" 
+Trying to get source control in Game Maker working
